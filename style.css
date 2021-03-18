@@ -1,0 +1,25 @@
+body {
+    background-color: #1b1b1b;
+    margin-top: 10vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+.center-text {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.main-text {
+    color: white;
+    font-family: 'Courier New', Courier, monospace; 
+    text-align: justify;
+}
+
+.my-img {
+    display: block;
+    margin: 0 auto;
+    width: 164pt;
+    height: 164pt;
+    border-radius: 50%;
+}
